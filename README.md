@@ -3,4 +3,6 @@ A character ROM adapter for the Commodore VIC-20 for 27C64...512 EPROMs. It supp
 
 It is configurable via solder bridges and can be configured as a C64 character ROM adapter, as well. It fits all VIC-20 mainboards and all C64 mainboards. It is a good solution for the C64 short board and a working solution for the C64 long boards. It might collide with a optional kernal adapter on the long boards, though, so the recommended solution for those is still the <a href="https://github.com/svenpetersen1965/C64-CHARSET-Adaptor-Switch">C64 Character ROM Adapter</a>.
 
+The VIC-20 Character ROM Adapter was mainly created to provide a solution for the <a href="https://www.tindie.com/products/bobsbits/vicky-twenty-commodore-vic-20-pcb-replica/">Vicky Twenty</a> VIC-20 replica.
+
 <img src="https://github.com/svenpetersen1965/VIC-20_Character_ROM_Adapter/blob/main/Rev.%200/Pictures/9001_-_VIC20_CHAR_Adapter.JPG" width="300" alt="VIC-20 Character ROM Adapter">
